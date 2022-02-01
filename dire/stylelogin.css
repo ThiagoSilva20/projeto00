@@ -1,0 +1,55 @@
+    body {
+        padding: 0px;
+        margin: 0px;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center center;
+        background-image: url("img/floresta3.jpg");
+    }
+    
+    input {
+        align-items: center;
+        height: 55px;
+        width: 400px;
+        margin: 10px;
+        border-radius: 30px;
+        border: none;
+        font-size: 16pt;
+        padding: 10px 20px;
+    }
+
+    #sub {
+        width: 440px;
+        cursor: pointer;
+    }
+
+    form {
+        padding: 10px;
+        background-color: rgb(53 122 88 / 30%);
+        width: 500px;
+        border: 1px solid rgba(200,200,200,0.3);
+        border-radius: 17px;
+    }
+    .row .col.s12 {
+        width: 100%;
+        margin-left: auto;
+        left: auto;
+        right: auto;
+        background: rgba(255,255,255,0.4);
+        border-radius: 13px;
+ 
+    }
+
+    fieldset {
+        DISPLAY: flex;
+        JUSTIFY-CONTENT: center;
+    
+    }
+     
+    div label {
+        color: white;
+    }
+
+
+
+    

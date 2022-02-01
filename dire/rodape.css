@@ -1,0 +1,14 @@
+#rodape {
+    height: 100px;
+    width: 100%;
+    background-color: #49644F;
+}
+img {
+    margin-top: 6px;
+}
+a {
+    color: black;
+}
+ul {
+    margin-bottom: 0;
+}
